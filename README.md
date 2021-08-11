@@ -27,7 +27,8 @@
   label='checked={false} с заполнением'
   onClick={checkboxesHandler}
   checkedStyle='opaque'
-/>
+/>![Screenshot (133)](https://user-images.githubusercontent.com/49208121/128989543-cc1c25f1-dfdf-4700-8e9d-8f4fcf36e924.png)
+
 <СustomCheckbox
   id='3'
   label='checked={false} с без заполнением'
